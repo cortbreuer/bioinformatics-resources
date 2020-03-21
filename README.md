@@ -1,7 +1,9 @@
-# Bioinformatic and Computational Biology Resources
-### For learning new skills during the COVID-19 Pandemic
+# Bioinformatic and Computational Biology Resources 
+#### For learning new skills during the COVID-19 Pandemic
 
-#### Biology
+### Learning Topics:
+
+#### 🔬Biology
 
 1. Systems Biology
 
@@ -9,7 +11,7 @@
 
 3. Sequencing Technology
 
-#### Computer Science
+#### 🖥️Computer Science 
 
 1. Unix
 
@@ -17,7 +19,7 @@
 
 3. Python
 
-#### Bioinformatics
+#### 🧬Bioinformatics
 
 1. General Sequence Analysis
 
@@ -25,7 +27,7 @@
 
 3. Single-cell RNA Sequencing
 
-#### Computational Biology
+#### 🦠Computational Biology
 
 1. Protein Modeling
 
