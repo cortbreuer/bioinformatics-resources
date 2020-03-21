@@ -17,6 +17,8 @@
 
 2. R
 
+	Jennifer Bryan and Jim Hester's [What They Forgot to Teach You About R](https://rstats.wtf/index.html)
+
 3. Python
 
 #### Bioinformatics 🧬
