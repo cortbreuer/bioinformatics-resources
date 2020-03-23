@@ -5,11 +5,21 @@
 
 #### Biology 🔬
 
-1. Systems Biology
+1. Control Theory + Systems Biology
 
-2. Control Theory
+	[An Introduction to Systems Biology](), by Uri Alon
 
-3. Sequencing Technology
+	[Control Theory and Systems Biology](), by Pablo Iglesias and Brian Ingalls
+
+2. Sequencing Technology, Bioanalytics
+
+	[Bioanalytics](), by Friedrich Lottspeich and Joachim Engels
+	
+3. Immunology
+
+	[Cellular and Molecular Immunology, 9th Edition](), by Abul Abbas, Andrew Lichtman, and Shiv Pillai
+	
+	[The Immune System, 4th Edition](), by Peter Parham
 
 #### Computer Science 🖥️ 
 
@@ -17,13 +27,17 @@
 
 2. R
 
-	Jennifer Bryan and Jim Hester's [What They Forgot to Teach You About R](https://rstats.wtf/index.html)
+	[R for Data Science](), by Hadley Wickham and Garrett Grolemund
+	
+	[What They Forgot to Teach You About R](https://rstats.wtf/index.html), by Jennifer Bryan and Jim Hester
 
 3. Python
 
 #### Bioinformatics 🧬
 
-1. General Sequence Analysis
+1. Introduction + Theory
+
+	[Bioinformatics Data Skills](), by Vince Buffalo
 
 2. Bulk-RNA Sequencing
 
