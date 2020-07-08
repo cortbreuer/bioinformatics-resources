@@ -20,31 +20,51 @@
 	[Cellular and Molecular Immunology, 9th Edition](), by Abul Abbas, Andrew Lichtman, and Shiv Pillai
 	
 	[The Immune System, 4th Edition](), by Peter Parham
+	
+4. Biochemistry
 
 #### Computer Science 🖥️ 
 
 1. Unix
 
-2. R
+	[Intro to the Unix Shell](https://hbctraining.github.io/Intro-to-Shell/schedule/), by the Harvard Chan Bioinformatics Core
+	
+2. MATLAB
+
+	[Insight through Computing: A MATLAB Introduction to Computational Science and Engineering](https://epubs-siam-org.proxy.library.cornell.edu/doi/book/10.1137/1.9780898717648), by Daisy Fan and Charles Van Loan
+
+3. R
 
 	[R for Data Science](), by Hadley Wickham and Garrett Grolemund
 	
 	[What They Forgot to Teach You About R](https://rstats.wtf/index.html), by Jennifer Bryan and Jim Hester
 
-3. Python
+4. Python
 
 #### Bioinformatics 🧬
 
 1. Introduction + Theory
 
 	[Bioinformatics Data Skills](), by Vince Buffalo
+	
+2. RNA Sequencing Methods
 
-2. Bulk-RNA Sequencing
+3. Bulk-RNA Sequencing Analysis
 
-3. Single-cell RNA Sequencing
+4. Single-cell RNA Sequencing Analysis
+
+5. Receptor-Ligand Analysis with RNA-seq
 
 #### Computational Biology 🦠
 
 1. Protein Modeling
 
+	[PyMOL Basics](https://bioquest.org/nimbios2010/wp-content/blogs.dir/files/2010/07/pymol_tutorial3.pdf), by Jean-Yves Sgro
+	
 2. Protein Design
+
+	[Rosetta Software Workshops](http://www.meilerlab.org/index.php/rosetta-tutorials), by Jens Meiler's Lab at Vanderbilt
+
+
+
+
